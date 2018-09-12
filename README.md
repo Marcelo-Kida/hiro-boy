@@ -1,2 +1,1 @@
-# hiro-boy
-myRepo hiro-boy
+myRepo
